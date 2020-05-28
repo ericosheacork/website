@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Cara
+  Eric O Shea Portfolio
 </h1>
 
 <p align="center">
